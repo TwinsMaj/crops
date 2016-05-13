@@ -11,10 +11,10 @@ function showPic(whichpic) {
 
 	// get the 'href' attribute of the link
 	// that was was clicked
-	var href = whichpic.getAttribute("href");
+	var hr = whichpic.getAttribute("href");
 
 	// swap
-	img.setAttribute("src", href);
+	img.setAttribute("src", hr);
 }
 
 function prepareGallery() {
