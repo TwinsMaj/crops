@@ -3,6 +3,10 @@
 	padding: 0;
 }
 
+body {
+	font-family: "arial";
+}
+
 #placeholder {
 	width: 600px;
 	height: 450px;
